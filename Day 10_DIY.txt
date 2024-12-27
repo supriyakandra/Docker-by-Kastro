@@ -14,3 +14,4 @@ Write a Dockerfile to perform the below tasks;
 6. Check the "Netflix" directory and the file inside it and the content inside the file.
 7. Come out of the container
 8. Go inside the container again, and recheck the directory, file, and content inside the file
+9. new line
